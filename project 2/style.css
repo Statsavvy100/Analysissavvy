@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.faith {
+    text-align: center;
+    
+}
+
+.poor {
+    background-color: #012646;
+    margin: 0 !important;
+    color: white;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    line-height: 1.5;
+    padding-top: 15px;
+
+}
+.h1{
+    font-family: futura-lt-w01-light,sans-serif;
+    font-size: 36px;
+    padding-top: 20px;
+    
+}
+.h2{
+    font-family: futura-lt-w01-light,sans-serif;
+    font-size: 36px;
+}
+.h3{
+    font-family: futura-lt-w01-light,sans-serif;
+    font-size: 36px;
+    padding-top: 20px;
+}
+.h4{
+    font-family: futura-lt-w01-light,sans-serif;
+    font-size: 36px;
+}
+.h5{
+    font-family: futura-lt-w01-light,sans-serif;
+    font-size: 36px;
+    padding-top: 20px;
+}
+.term{
+    padding-top: 30px;
+   line-height: 1.5;
+   padding: 5px;
+}
+
+.school {
+    background-color: #568ebf;
+    margin: 0 !important;
+    color: white;
+    padding: 40px ;
+    padding-bottom: 5px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    line-height: 1.5px;
+   height: 100%;
+   width: 100%;
+   top: 0%;
+
+}
+.bus{
+    background-color: #568ebf;
+    color: white;
+    padding: 20px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    line-height: -0.5px;
+} 
+.sub{
+    background-color: #012646;
+    color: white;
+    padding: 40px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    line-height: 1.5;
+   padding-top: 15px;
+}
+.pad{
+    padding: 1px;
+    color: white;
+    margin: 40px;
+    vertical-align: baseline;
+    letter-spacing: normal;
+    line-height: 200%;
+    /* padding: 5px 5px; */
+ 
+    
+}
+.img{
+    background-image: url(png.webp);
+    background-size: cover;
+    height: 500px;
+}
+.ike{
+    line-height: 1.8em;
+    text-align: justify;
+    font-size: 16px;
+    letter-spacing: 0.05em;
+    margin-left: 300px;
+}
+.flex{
+    display: flex;
+    background-color: #012646;
+    justify-content: center;
+    color: white;
+}
+.ewu{
+    margin-top: 25px;
+    border-left: 2px solid white;
+    height: 150px;
+    margin-left: 70px;
+}
+
+.go{
+    margin-top: 35px;
+    border-left: 2px solid white;
+    height: 150px;
+    margin-top: 25px;
+     
+}
+
